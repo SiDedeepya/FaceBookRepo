@@ -1,0 +1,5 @@
+com\qa\facebook\BaseClass.class
+com\qa\facebook\pages\FriendsPage.class
+com\qa\facebook\Util\Util.class
+com\qa\facebook\pages\LoginPage.class
+com\qa\facebook\pages\HomePage.class

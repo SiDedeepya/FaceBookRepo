@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="37772" started-at="2021-11-27T13:02:25Z" finished-at="2021-11-27T13:03:03Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="37772" started-at="2021-11-27T13:02:25Z" finished-at="2021-11-27T13:03:03Z">
+      <class name="com.qa.facebookTest.HomePageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.facebookTest.HomePageTest@566776ad]" name="SetUp" is-config="true" duration-ms="8633" started-at="2021-11-27T18:32:25Z" finished-at="2021-11-27T18:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerifyUserNameLabelTest()[pri:1, instance:com.qa.facebookTest.HomePageTest@566776ad]" name="VerifyUserNameLabelTest" duration-ms="6109" started-at="2021-11-27T18:32:34Z" finished-at="2021-11-27T18:32:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserNameLabelTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.facebookTest.HomePageTest@566776ad]" name="tearDown" is-config="true" duration-ms="746" started-at="2021-11-27T18:32:40Z" finished-at="2021-11-27T18:32:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.facebookTest.HomePageTest@566776ad]" name="SetUp" is-config="true" duration-ms="4038" started-at="2021-11-27T18:32:45Z" finished-at="2021-11-27T18:32:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerifyFriendsLinkTest()[pri:2, instance:com.qa.facebookTest.HomePageTest@566776ad]" name="VerifyFriendsLinkTest" duration-ms="4350" started-at="2021-11-27T18:32:49Z" finished-at="2021-11-27T18:32:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFriendsLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.facebookTest.HomePageTest@566776ad]" name="tearDown" is-config="true" duration-ms="746" started-at="2021-11-27T18:32:53Z" finished-at="2021-11-27T18:32:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.facebookTest.HomePageTest -->
+      <class name="com.qa.facebookTest.LoginPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.facebookTest.LoginPageTest@6108b2d7]" name="SetUp" is-config="true" duration-ms="3609" started-at="2021-11-27T18:32:41Z" finished-at="2021-11-27T18:32:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ValidatePageTitleTest()[pri:1, instance:com.qa.facebookTest.LoginPageTest@6108b2d7]" name="ValidatePageTitleTest" duration-ms="7" started-at="2021-11-27T18:32:44Z" finished-at="2021-11-27T18:32:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.facebookTest.LoginPageTest@6108b2d7]" name="tearDown" is-config="true" duration-ms="703" started-at="2021-11-27T18:32:44Z" finished-at="2021-11-27T18:32:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.facebookTest.LoginPageTest@6108b2d7]" name="SetUp" is-config="true" duration-ms="3446" started-at="2021-11-27T18:32:54Z" finished-at="2021-11-27T18:32:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ValidateLogoTest()[pri:2, instance:com.qa.facebookTest.LoginPageTest@6108b2d7]" name="ValidateLogoTest" duration-ms="84" started-at="2021-11-27T18:32:57Z" finished-at="2021-11-27T18:32:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.facebookTest.LoginPageTest@6108b2d7]" name="tearDown" is-config="true" duration-ms="682" started-at="2021-11-27T18:32:58Z" finished-at="2021-11-27T18:32:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.facebookTest.LoginPageTest@6108b2d7]" name="SetUp" is-config="true" duration-ms="3329" started-at="2021-11-27T18:32:58Z" finished-at="2021-11-27T18:33:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ValidateLoginTest()[pri:3, instance:com.qa.facebookTest.LoginPageTest@6108b2d7]" name="ValidateLoginTest" duration-ms="504" started-at="2021-11-27T18:33:02Z" finished-at="2021-11-27T18:33:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.facebookTest.LoginPageTest@6108b2d7]" name="tearDown" is-config="true" duration-ms="749" started-at="2021-11-27T18:33:02Z" finished-at="2021-11-27T18:33:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.facebookTest.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
